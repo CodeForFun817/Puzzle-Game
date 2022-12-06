@@ -1,0 +1,33 @@
+body {
+   background-image: url(homback.jpg);
+   background-size: cover;
+}
+#start {
+   text-align: center;
+   font-size: 50px;
+}
+#Child {
+   font-size: 40px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#Teen {
+   font-size: 40px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#Robot {
+   font-size: 40px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.space {
+   padding: 60px 0;
+}
+button {
+   background-color: transparent;
+   
+}
